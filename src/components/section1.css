@@ -1,0 +1,15 @@
+.section1-container{
+    height: 126px;
+    width: 100%;
+    /* background-color: aqua; */
+}
+.section1-container h1{
+    font-size: 21px;
+    margin-left: 36px;
+    margin-top: 33px;
+}
+.section1-container p {
+    font-size: 10px;
+    margin-left: 45px;
+    margin-top: 33px;
+}
